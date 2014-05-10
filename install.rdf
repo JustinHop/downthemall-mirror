@@ -14,6 +14,8 @@
 		<em:developer>Federico Parodi</em:developer>
 		<em:developer>Stefano Verna</em:developer>
 		<em:developer>Nils Maier</em:developer>
+		<em:developer>Justin Hoppensteadt</em:developer>
+
 
 		<em:aboutURL>chrome://dta/content/about/about.xul</em:aboutURL>
 		<em:iconURL>chrome://dtaicon/content/icon.png</em:iconURL>

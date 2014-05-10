@@ -59,7 +59,7 @@
 							<label value="&privacypane.dropdownresults2.label;" flex="1"
 								control="history" />
 							<hbox>
-								<scale min="0" max="15" id="history" preference-editable="true"
+								<scale min="0" max="10000" id="history" preference-editable="true"
 									onchange="Privacy.changedHistory();" />
 								<label id="historylabel" style="min-width: 3em;" />
 							</hbox>

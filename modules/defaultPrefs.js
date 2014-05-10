@@ -10,7 +10,7 @@ pref("extensions.dta.conflictresolution", 3);
 pref("extensions.dta.ntask", 8);
 pref("extensions.dta.timeout", 300);
 pref("extensions.dta.maxchunks", 4);
-pref("extensions.dta.history", 5);
+pref("extensions.dta.history", 500);
 pref("extensions.dta.alertbox", 2);
 pref("extensions.dta.removecompleted", true);
 pref("extensions.dta.removecanceled", false);
